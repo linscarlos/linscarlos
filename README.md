@@ -1,5 +1,45 @@
-### Hi there 👋
+## Olá, mundo! Eu sou o Carlos 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and SQL.
-- 📫 How to reach me: Instagram - @carlinhos.lins7
+Sou formado em Análise e Desenvolvimento de Sistemas, sou um apaixonado por tecnologia e por estudar programação, busco constante por mais conhecimento nesse universo fantástico. Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior.
+
+<h2 align="center">
+🎯 Skills
+</h2>
+
+<div align="center">
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/html-5.svg" width="45px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/css3.svg" width="45px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/javascript.svg" width="45px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/typescript.svg" height="45px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/react.svg" height="40px" />&nbsp;
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/next-js.svg" height="40px" />
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+🛠 Ferramentas
+</h2>
+
+<div align="center">
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/git.svg" width="45px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/figma.svg" height="38px" />
+<img src="https://github.com/linscarlos/linscarlos/blob/main/assets/vscode.svg" width="45px" />
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+🌎 Network
+</h2>
+
+<div align="center">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=558299976243"><img src="https://github.com/linscarlos/linscarlos/blob/main/assets/whatsapp.svg" height="40px" /></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/lins-carlos"><img src="https://github.com/linscarlos/linscarlos/blob/main/assets/linkedin.svg" height="40px" /></a>&nbsp;&nbsp;
+<a target="_blank" href="mailto:carloslinsdev@gmail.com"><img src="https://github.com/linscarlos/linscarlos/blob/main/assets/gmail.svg" height="45px" /></a>
+</div>
