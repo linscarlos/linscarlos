@@ -4,7 +4,7 @@
 Sou formado em Análise e Desenvolvimento de Sistemas, sou um apaixonado por tecnologia e por estudar programação, busco constante por mais conhecimento nesse universo fantástico. Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior.
 
 <h2 align="center">
-🎯 Skills
+🎯 Habilidades
 </h2>
 
 <div align="center">
